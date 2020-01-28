@@ -1,4 +1,4 @@
-# dippro
+#### Dip en Pro
 ### PRO Les 1
 - rekenmachine opdracht gemaakt
 - de streamwiter function
