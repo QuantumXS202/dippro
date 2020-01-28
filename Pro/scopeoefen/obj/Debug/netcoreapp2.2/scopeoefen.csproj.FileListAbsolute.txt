@@ -1,0 +1,11 @@
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\bin\Debug\netcoreapp2.2\scopeoefen.deps.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\bin\Debug\netcoreapp2.2\scopeoefen.runtimeconfig.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\bin\Debug\netcoreapp2.2\scopeoefen.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\bin\Debug\netcoreapp2.2\scopeoefen.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\bin\Debug\netcoreapp2.2\scopeoefen.pdb
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\obj\Debug\netcoreapp2.2\scopeoefen.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\obj\Debug\netcoreapp2.2\scopeoefen.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\obj\Debug\netcoreapp2.2\scopeoefen.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\obj\Debug\netcoreapp2.2\scopeoefen.AssemblyInfo.cs
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\obj\Debug\netcoreapp2.2\scopeoefen.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scopeoefen\obj\Debug\netcoreapp2.2\scopeoefen.pdb

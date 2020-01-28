@@ -1,0 +1,11 @@
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\bin\Debug\netcoreapp2.2\oefenenclass.deps.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\bin\Debug\netcoreapp2.2\oefenenclass.runtimeconfig.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\bin\Debug\netcoreapp2.2\oefenenclass.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\bin\Debug\netcoreapp2.2\oefenenclass.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\bin\Debug\netcoreapp2.2\oefenenclass.pdb
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\obj\Debug\netcoreapp2.2\oefenenclass.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\obj\Debug\netcoreapp2.2\oefenenclass.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\obj\Debug\netcoreapp2.2\oefenenclass.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\obj\Debug\netcoreapp2.2\oefenenclass.AssemblyInfo.cs
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\obj\Debug\netcoreapp2.2\oefenenclass.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\oefenenclass\obj\Debug\netcoreapp2.2\oefenenclass.pdb

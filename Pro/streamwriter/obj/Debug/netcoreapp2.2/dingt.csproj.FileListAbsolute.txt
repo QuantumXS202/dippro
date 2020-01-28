@@ -1,0 +1,11 @@
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\obj\Debug\netcoreapp2.2\dingt.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\obj\Debug\netcoreapp2.2\dingt.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\obj\Debug\netcoreapp2.2\dingt.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\obj\Debug\netcoreapp2.2\dingt.AssemblyInfo.cs
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\bin\Debug\netcoreapp2.2\dingt.deps.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\bin\Debug\netcoreapp2.2\dingt.runtimeconfig.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\bin\Debug\netcoreapp2.2\dingt.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\bin\Debug\netcoreapp2.2\dingt.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\bin\Debug\netcoreapp2.2\dingt.pdb
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\obj\Debug\netcoreapp2.2\dingt.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\streamwriter\obj\Debug\netcoreapp2.2\dingt.pdb

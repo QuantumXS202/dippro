@@ -1,0 +1,11 @@
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\bin\Debug\netcoreapp2.2\scope oefening.deps.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\bin\Debug\netcoreapp2.2\scope oefening.runtimeconfig.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\bin\Debug\netcoreapp2.2\scope oefening.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\bin\Debug\netcoreapp2.2\scope oefening.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\bin\Debug\netcoreapp2.2\scope oefening.pdb
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\obj\Debug\netcoreapp2.2\scope oefening.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\obj\Debug\netcoreapp2.2\scope oefening.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\obj\Debug\netcoreapp2.2\scope oefening.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\obj\Debug\netcoreapp2.2\scope oefening.AssemblyInfo.cs
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\obj\Debug\netcoreapp2.2\scope oefening.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\scope oefening\obj\Debug\netcoreapp2.2\scope oefening.pdb

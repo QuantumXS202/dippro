@@ -1,0 +1,11 @@
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\bin\Debug\netcoreapp2.2\steamriter.deps.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\bin\Debug\netcoreapp2.2\steamriter.runtimeconfig.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\bin\Debug\netcoreapp2.2\steamriter.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\bin\Debug\netcoreapp2.2\steamriter.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\bin\Debug\netcoreapp2.2\steamriter.pdb
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\obj\Debug\netcoreapp2.2\steamriter.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\obj\Debug\netcoreapp2.2\steamriter.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\obj\Debug\netcoreapp2.2\steamriter.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\obj\Debug\netcoreapp2.2\steamriter.AssemblyInfo.cs
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\obj\Debug\netcoreapp2.2\steamriter.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\steamriter\obj\Debug\netcoreapp2.2\steamriter.pdb

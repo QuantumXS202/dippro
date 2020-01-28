@@ -1,0 +1,11 @@
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\bin\Debug\netcoreapp2.2\as you comman.deps.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\bin\Debug\netcoreapp2.2\as you comman.runtimeconfig.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\bin\Debug\netcoreapp2.2\as you comman.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\bin\Debug\netcoreapp2.2\as you comman.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\bin\Debug\netcoreapp2.2\as you comman.pdb
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\obj\Debug\netcoreapp2.2\as you comman.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\obj\Debug\netcoreapp2.2\as you comman.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\obj\Debug\netcoreapp2.2\as you comman.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\obj\Debug\netcoreapp2.2\as you comman.AssemblyInfo.cs
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\obj\Debug\netcoreapp2.2\as you comman.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\as you comman\obj\Debug\netcoreapp2.2\as you comman.pdb

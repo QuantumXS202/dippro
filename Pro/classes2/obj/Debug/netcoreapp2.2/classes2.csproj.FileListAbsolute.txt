@@ -1,0 +1,11 @@
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\bin\Debug\netcoreapp2.2\classes2.deps.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\bin\Debug\netcoreapp2.2\classes2.runtimeconfig.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\bin\Debug\netcoreapp2.2\classes2.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\bin\Debug\netcoreapp2.2\classes2.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\bin\Debug\netcoreapp2.2\classes2.pdb
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\obj\Debug\netcoreapp2.2\classes2.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\obj\Debug\netcoreapp2.2\classes2.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\obj\Debug\netcoreapp2.2\classes2.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\obj\Debug\netcoreapp2.2\classes2.AssemblyInfo.cs
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\obj\Debug\netcoreapp2.2\classes2.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\classes2\obj\Debug\netcoreapp2.2\classes2.pdb

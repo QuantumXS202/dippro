@@ -1,0 +1,11 @@
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\bin\Debug\netcoreapp2.2\getters en setters.deps.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\bin\Debug\netcoreapp2.2\getters en setters.runtimeconfig.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\bin\Debug\netcoreapp2.2\getters en setters.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\bin\Debug\netcoreapp2.2\getters en setters.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\bin\Debug\netcoreapp2.2\getters en setters.pdb
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\obj\Debug\netcoreapp2.2\getters en setters.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\obj\Debug\netcoreapp2.2\getters en setters.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\obj\Debug\netcoreapp2.2\getters en setters.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\obj\Debug\netcoreapp2.2\getters en setters.AssemblyInfo.cs
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\obj\Debug\netcoreapp2.2\getters en setters.dll
+C:\Users\quinn\Desktop\bewijzenmap\peridode2\Pro\getters en setters\obj\Debug\netcoreapp2.2\getters en setters.pdb
