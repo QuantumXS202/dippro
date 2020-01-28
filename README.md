@@ -1,5 +1,6 @@
-#### Dip en Pro
-### PRO Les 1
+#### DIP EN PRO
+
+### Pro Les 1
 - rekenmachine opdracht gemaakt
 - de streamwiter function
 ### Pro les 2
